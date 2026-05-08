@@ -1,1 +1,1 @@
-# DL-CIFAR10-Project
+# DL-Project
